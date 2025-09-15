@@ -44,3 +44,6 @@ This project is a **Movie Recommendation System** that suggests movies to users 
 -  Users can **search movies by title**.  
 -  If a movie is missing, the system allows **adding new movies dynamically**.  
 -  Combines both **content similarity** and **collaborative filtering** to generate recommendations.  
+
+## Clone the repository:
+   git clone https://github.com/NoorUlEmanBukhari/MoviesRecommendationSystem.git
